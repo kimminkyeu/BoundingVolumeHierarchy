@@ -1,4 +1,5 @@
-## Obj file viewer 
+### [프로젝트 상세 설명 (구현, 알고리즘 소개)](https://kyeu.notion.site/3D-BVH-ab205f1d38b04b4bb2e1488e6199c60e?pvs=4)
+
 ![제목 없는 동영상 - Clipchamp로 제작 (2)](https://github.com/kimminkyeu/MiniBlender/assets/60287070/df4a51de-530f-443a-bb34-0930e040f66d)
 ### [Youtube Demo 1](https://youtu.be/IXdCqPJfspo?si=NZ0x4q1wBHoGwQnw)
 ### [Youtube Demo 2](https://www.youtube.com/watch?v=i7UIffMyYxs)
