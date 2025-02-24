@@ -1,8 +1,9 @@
 ## Obj file viewer 
-### [Youtube Demo](https://youtu.be/IXdCqPJfspo?si=NZ0x4q1wBHoGwQnw)
-
 ![제목 없는 동영상 - Clipchamp로 제작 (2)](https://github.com/kimminkyeu/MiniBlender/assets/60287070/df4a51de-530f-443a-bb34-0930e040f66d)
-![image](https://github.com/kimminkyeu/MiniBlender/assets/60287070/3b1711d6-be75-4bb2-b898-44f65fc5b475)
+### [Youtube Demo 1](https://youtu.be/IXdCqPJfspo?si=NZ0x4q1wBHoGwQnw)
+### [Youtube Demo 2](https://www.youtube.com/watch?v=i7UIffMyYxs)
+
+![image](https://github.com/user-attachments/assets/8fd68248-68c6-4173-be32-7afb10c11980)
 
 ### BVH build time test (ms)
 ```
